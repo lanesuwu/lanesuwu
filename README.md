@@ -13,9 +13,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=femboylucky&label=Profile%20views&color=ADB3FF&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/femboylucky?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/femboylucky?label=Stars&style=social" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=lanesuwu&label=Profile%20views&color=ADB3FF&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/lanesuwu?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/lanesuwu?label=Stars&style=social" alt="stars" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=femboylucky&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lanesuwu&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
