@@ -36,7 +36,7 @@
 
   * Built a custom CS:GO cheat using C++ and developed Lua scripts for cheat enhancements.
   * Basic reverse engineering for game modding (*sneaky sneaky*).
-  * Shader/VFX development in Unity.
+  * Basic level of Shader/VFX development in Unity.
 * 🎮 **Passions:** Game modding, reverse engineering, scripting, AI and VR dev.
 * 🛠️ **Tools I love:**
 
