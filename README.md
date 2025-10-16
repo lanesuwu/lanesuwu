@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/femboylucky/img/blob/13bc6a2853b18c8ff9479def9ed38de48ce7dfe3/banner.png" width="720" height="300"/>
-</div>
-
 # <div align="center">👋 hi, i'm lanes!</div>
 
 <div align="center">
